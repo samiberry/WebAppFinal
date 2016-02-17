@@ -1,4 +1,21 @@
 .navbar
 {
     background-color: aqua;
+    text-decoration-color: aliceblue;
+}
+.jumbotron
+{
+    background-color: pink;
+}
+.glyphicon-send
+{
+    color: slategrey;
+}
+.fa-sun-o
+{
+    color: aliceblue;   
+}
+.fa-street-view
+{
+  color: antiquewhite;  
 }
